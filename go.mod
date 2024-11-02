@@ -1,4 +1,4 @@
-module main
+module solution
 
 go 1.23.2
 
